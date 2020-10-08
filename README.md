@@ -1,7 +1,7 @@
 # PathFinders
 
-<img src = "images/pathfinders_img_01.png" width=100>
-![](images/pathfinders_img_01.png)
+<img src = "images/pathfinders_img_01.png" width=400>
+
 
 En este proyecto unas sencillas criaturas aprenden a atravesar un laberinto en 2D mediante un algoritmo evolutivo.
 
