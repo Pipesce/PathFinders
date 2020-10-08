@@ -1,5 +1,7 @@
 # PathFinders
 
+![](images/pathfinders_img_01.png)
+
 En este proyecto unas sencillas criaturas aprenden a atravesar un laberinto en 2D mediante un algoritmo evolutivo.
 
 Cada criatura consiste en un triángulo, el que puede acelerar, frenar y doblar. 
